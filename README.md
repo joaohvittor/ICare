@@ -1,6 +1,3 @@
-# ICare
-
-## Descrição
 
 O ICare é um aplicativo inovador focado em engajamento social para jovens e adolescentes. Utilizando gamificação, o app incentiva a promoção da paz, justiça e instituições eficazes através de missões, jornadas de aprendizado, simulações de debates, causas coletivas e muito mais. O objetivo é criar uma comunidade global de jovens cidadãos conscientes e engajados.
 
@@ -56,6 +53,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-João Vitor Silva - [seu-email@example.com](mailto:seu-email@example.com)  
+João Vitor Silva
 GitHub: [@joaohvittor](https://github.com/joaohvittor)
 
