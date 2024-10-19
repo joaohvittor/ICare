@@ -1,0 +1,12 @@
+-- icare.sql
+CREATE DATABASE icare;
+USE icare;
+
+CREATE TABLE usuarios (
+    id INT NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL,
+    criado_em TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (id)
+);

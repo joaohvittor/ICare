@@ -19,6 +19,9 @@
     "@react-navigation/native": "^6.1.18",
     "@react-navigation/stack": "^6.4.1",
     "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
     "expo": "^45.0.8",
     "expo-constants": "~16.0.2",
     "expo-font": "~12.0.9",
@@ -28,6 +31,9 @@
     "expo-status-bar": "~1.12.1",
     "expo-system-ui": "~3.0.7",
     "expo-web-browser": "~13.0.3",
+    "express": "^4.21.1",
+    "icare": "file:",
+    "mongoose": "^8.7.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.5",
@@ -51,5 +57,9 @@
     "react-test-renderer": "18.2.0",
     "typescript": "~5.3.3"
   },
-  "private": true
+  "private": true,
+  "description": "O ICare é um aplicativo inovador focado em engajamento social para jovens e adolescentes. Utilizando gamificação, o app incentiva a promoção da paz, justiça e instituições eficazes através de missões, jornadas de aprendizado, simulações de debates, causas coletivas e muito mais. O objetivo é criar uma comunidade global de jovens cidadãos conscientes e engajados.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
